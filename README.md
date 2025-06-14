@@ -32,7 +32,7 @@ A clean, fast terminal-based AI assistant powered by Google's Gemini API.
 
 ### Build & Install
 ```bash
-git clone <repository-url>
+git clone git@github.com:BaslaelWorkineh/GemCLI.git
 cd gemcli
 make
 make install
